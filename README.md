@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/Download%20Resume-2E97F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/> 
   </a> 
 </p>
+
 ---
+
 ## 🌟 About Me
 
 I’m an engineering student passionate about **building intelligent, scalable, and connected systems** that merge data, design, and real-world functionality.  
