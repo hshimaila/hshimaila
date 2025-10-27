@@ -1,16 +1,18 @@
+
+
+<h1 align="center">👋 Hi, I'm Shimaila Hanif</h1>
+
 <!-- Typing animation banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Django+Enthusiast;IoT+%26+ML+Innovator;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Shimaila Hanif</h1>
-
-<p align="center">
-  🎓 <b>Engineering Student</b> | 💻 <b>Full-Stack Developer</b> | 🌐 <b>IoT & ML Enthusiast</b>
+<p align="center"> 
+  <a href="https://github.com/hshimaila/hshimaila/raw/main/Resume.pdf" download> 
+    <img src="https://img.shields.io/badge/Download%20Resume-2E97F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/> 
+  </a> 
 </p>
-
 ---
-
 ## 🌟 About Me
 
 I’m an engineering student passionate about **building intelligent, scalable, and connected systems** that merge data, design, and real-world functionality.  
