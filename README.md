@@ -1,122 +1,129 @@
-
-
-<h1 align="center">👋 Hi, I'm Shimaila Hanif</h1>
-
-<!-- Typing animation banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Django+Enthusiast;IoT+%26+ML+Innovator;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/hshimaila/hshimaila/raw/main/ShimailaHanif_Resume2026.pdf" download> 
-    <img src="https://img.shields.io/badge/Download%20Resume-2E97F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/> 
-  </a> 
-</p>
-
----
-
-## 🌟 About Me
-
-I’m an engineering student passionate about **building intelligent, scalable, and connected systems** that merge data, design, and real-world functionality.  
-My interests lie at the intersection of **IoT, Machine Learning, and Full-Stack Web Development**, where I love turning innovative ideas into working prototypes and products.
-
-I enjoy working on projects that solve real-world problems — from management systems to data-driven applications that make everyday processes smarter.
-
----
-
-## 🧠 Tech Stack
-💬 Languages
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-⚙️ Frameworks
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
-</p>
-🧩 Machine Learning
-<p align="left"> 
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-🔌 IoT Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/HC--05-Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sensors-Integration-555555?style=for-the-badge"/> 
-</p>
-🗄️ Databases
-<p align="left"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
-</p>
-🧰 Other Tools
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white"/> 
-</p>
-
----
-
-## 💼 Featured Projects
-
-### 🏠 [Hostel Management System (Django + React)](https://github.com/hshimaila/Hostel-Management-System-Django-React)
-A full-stack web platform for hostel data management — enabling student record management, mess bill tracking, and admin controls for wardens and matrons.  
-
-### ⚡ [GridMirror](https://github.com/hshimaila/GridMirror)
-An intelligent IoT-based energy monitoring and management system that visualizes and optimizes electricity usage in real time.  
-
-### 📊 [CRM Tracker](https://github.com/hshimaila/CRM-Tracker)
-A lightweight CRM solution designed to manage client data, sales activity, and performance analytics with a Django REST backend.  
-
-### 💰 [FinAid](https://github.com/hshimaila/FinAid)
-A financial guidance assistant built to help middle-class families track spending, regulate budgets, and get investment insights — combining UI design with smart analytics.
-
----
-
-## 🚀 What I'm Currently Working On
-
-- Enhancing my **IoT + Web integration** skills  
-- Exploring **AI-driven automation for smart systems**  
-- Contributing to **open-source Django/React** projects  
-- Building my **personal portfolio website**  
-
----
-
-## 🧩 Hackathon & Project Highlights
-
-- 🏆 Participated in national-level hackathons like **HackJKLU**, **SANDBOX**, and **Smart India Hackathon**
-- 💡 Designed solutions for **IoT-based health monitoring**, **AI-powered phishing detection**, and **financial advisory systems**
-
----
-
-## 🌱 Learning Goals
-
-- Deepen expertise in **Machine Learning pipelines** and **Model Deployment**
-- Strengthen backend architecture with **Django REST Framework**
-- Explore **Edge Computing** and **Cloud IoT Integrations**
-
----
-
-
-
-## 📫 Let’s Connect!
+<h1 align="center">Hi, I'm Shimaila Hanif 👋</h1>
 
 <p align="center">
-  <a href="mailto:hshimaila@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shimaila-hanif-08ba1b262/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/hshimaila"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+Django+%26+React;IoT+%26+ML+Enthusiast;Building+systems+that+think+and+connect.;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://hshimaila.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2d6a4f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shimaila-hanif-08ba1b262/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hshimaila@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hshimaila/hshimaila/raw/main/Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
+## About Me
+
+I'm an engineering student specializing in **IoT and Software Development**, passionate about building intelligent systems at the intersection of data, design, and real-world functionality.
+
+My work spans full-stack web applications with Django and React, IoT sensor integration with Arduino, and machine learning pipelines for smart automation. I enjoy tackling problems that matter — from energy monitoring and financial guidance to hostel management and AI-powered resume analysis.
+
+- 🔭 Currently building: AI-driven smart systems with IoT + Web integration
+- 🌱 Learning: ML model deployment, Edge Computing, Cloud IoT
+- 🏆 Hackathons: Smart India Hackathon, HackJKLU, Hackofiesta 6.0 -AISpire
+- 🌐 Portfolio: [hshimaila.github.io](https://hshimaila.github.io)
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+
+**ML & Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**IoT & Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/HC--05_Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensor_Integration-555555?style=for-the-badge)
+![SCADA](https://img.shields.io/badge/SCADA-777777?style=for-the-badge)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## Featured Projects
+
+### [JobLens](https://github.com/hshimaila/JobLens) &nbsp;·&nbsp; [Live Demo ↗](https://joblens-frontend-pearl.vercel.app/)
+AI-driven resume matcher with skill gap analysis and personalized learning paths to improve hiring readiness for job seekers.  
+`Python` `NLP` `ML` `React`
+
+---
+
+### [Ordina — Task Organizer](https://github.com/hshimaila/Ordina---Task-Organizer) &nbsp;·&nbsp; [Live Demo ↗](https://ordina-frontend.vercel.app/login)
+Modern full-stack productivity app with JWT authentication, task analytics, and a sleek UI for efficient workflow management.  
+`React` `Django` `JWT` `PostgreSQL`
+
+---
+
+### [Hostel Management System](https://github.com/hshimaila/Hostel-Management-System-Django-React)
+Full-stack platform for hostel operations — student registration, room allocation, mess billing, complaints, and admin monitoring with role-based access control.  
+`Django` `React` `MySQL` `REST API`
+
+---
+
+### [GridMirror](https://github.com/hshimaila/GridMirror)
+AI/ML-powered digital twin for 400/220 kV substations — real-time monitoring, predictive maintenance, and fault simulation integrating SCADA, IoT, and historical data.  
+`Python` `ML` `IoT` `SCADA`
+
+---
+
+### [CRM Tracker](https://github.com/hshimaila/CRMtracker)
+IoT + ML solution tracking crop residue management machine usage, detecting idle time, and predicting maintenance needs in real time.  
+`Python` `IoT` `ML` `Django`
+
+---
+
+### [ChatBot.react](https://github.com/hshimaila/ChatBot.react)
+AI-powered chatbot with Google Gemini API integration for dynamic and intelligent conversational interactions, built in React.  
+`React` `Gemini API` `JavaScript`
+
+---
+
+## Hackathons & Highlights
+
+- 🥇 **Smart India Hackathon** — Built a financial advisory system for middle-class families combining smart analytics and intuitive UI
+- ⚡ **HackJKLU** — Designed IoT-based health monitoring solutions under time pressure
+- 🛡️ **SANDBOX** — AI-powered phishing detection system using NLP and real-time threat analysis
+
+---
+
 <p align="center">
-  <i>"Code with purpose, build with passion, and keep learning."</i> 🚀
+  <i>"Code with purpose, build with passion, and keep learning."</i>
 </p>
