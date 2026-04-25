@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/hshimaila/hshimaila/raw/main/Resume.pdf" download> 
+  <a href="https://github.com/hshimaila/hshimaila/raw/main/ShimailaHanif_Resume2026.pdf" download> 
     <img src="https://img.shields.io/badge/Download%20Resume-2E97F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/> 
   </a> 
 </p>
