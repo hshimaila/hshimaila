@@ -118,9 +118,9 @@ AI-powered chatbot with Google Gemini API integration for dynamic and intelligen
 
 ## Hackathons & Highlights
 
-- 🥇 **Smart India Hackathon** — Built a financial advisory system for middle-class families combining smart analytics and intuitive UI
-- ⚡ **HackJKLU** — Designed IoT-based health monitoring solutions under time pressure
-- 🛡️ **SANDBOX** — AI-powered phishing detection system using NLP and real-time threat analysis
+- 🥇 **Smart India Hackathon** — Built jute ribboner for SIH 2025, converting fibers efficiently; reduced labor, boosted speed, supported sustainability
+- ⚡ **HackJKLU** — Built DomainRadar, a tool that scans new domains to identify emerging business leads
+- 🛡️ **Hackofiesta 6.0 - AISpire** — Built an AI system that predicts floods and droughts using multi-source data and display city insights
 
 ---
 
